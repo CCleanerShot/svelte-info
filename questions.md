@@ -1,0 +1,2 @@
+Q: How is `/[\s=/>"']/` valid regex? regex101 doesn't validate this, seems to be intended for \> but still somehow works
+Q: Is ast.start = script_start necessary? https://github.com/CCleanerShot/svelte/blob/1c2fc210232c16d2eb0fdb20d9bac3cef2b87897/packages/svelte/src/compiler/phases/1-parse/read/script.js#L42

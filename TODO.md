@@ -1,0 +1,1 @@
+- look into `decode_character_references`'s behavior more closely (see if entities is actually more populated as the lifecycle of parsing goes, and if it continues with more files)
